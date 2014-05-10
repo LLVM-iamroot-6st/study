@@ -1,13 +1,15 @@
-컴파일러 이론
-===============
+# 컴파일러 이론
+
 
 컴파일러 용 책에 있는 Java 코드 및 정리하는 내용을 담는 repo 입니다.
 
-[http://iamroot.org](http://iamroot.org)
+<br>
+### Wiki
 
+[Go to Wiki](https://github.com/LLVM-iamroot-6st/study_repo/wiki)
 
-Markdown 툴 : [하루패드](http://pad.haroopress.com/user.html)<br/>
-코드 편집기 : [Notepad++](http://notepad-plus-plus.org/)
+<br>
+### Referneces 
 
-### 참고 자료
-- MarkDown 내용 : [링크](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)<br/>
+- [http://iamroot.org](http://iamroot.org)
+- [MarkDown Syntax](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)<br/>
